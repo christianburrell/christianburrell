@@ -1,7 +1,7 @@
 ### <samp> Hey! I'm <a href="http://www.linkedin.com/in/christianburrell" target="_blank">Christian</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/christianburrell)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](christian.burell@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:christian.burell@gmail.com)
 
 
 I'm a neuroscience and psychology major at Virginia Tech interested in the computational side of the world.
