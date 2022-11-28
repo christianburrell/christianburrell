@@ -12,4 +12,7 @@ I'm a neuroscience and psychology major at Virginia Tech interested in the compu
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/GKassym)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym) <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianburrell&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)   -->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianburrell&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+![GitHub top language](https://img.shields.io/github/languages/top/christianburrell/{change}?color=black) 
