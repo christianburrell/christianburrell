@@ -21,8 +21,8 @@ I'm a neuroscience and psychology major at Virginia Tech interested in the compu
 
 
 #### Previous Projects:
-* Time series data using RNNs - `.py`
-* Statistical analysis on levels of trust for individuals with BPD undegoing TMS - `.matlab`
+* ☁️ Weather time series data using RNNs - `.py`
+* 👥 Statistical analysis on levels of trust for individuals with BPD undegoing TMS - `.matlab`
 <!--[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/GKassym)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/)
