@@ -9,7 +9,7 @@
 I'm a neuroscience and psychology major at Virginia Tech interested in the computational side of the world. 
 
 #### Currently Coding:
-* 🗣️ NLP algorithim to detect social anxiety disorder in speech
+* 🗣️ NLP algorithim to detect social anxiety disorder (SAD) in speech
 * 🩺 Breast cancer dection using ML
 * 📰 Sentiment analysis for news sources
 
