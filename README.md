@@ -37,5 +37,5 @@ I'm a neuroscience and psychology major at Virginia Tech interested in the compu
 -->
 
 <!-- ![Christian's Github Stats](https://github-readme-stats.vercel.app/api?username=christianburrell&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6) -->
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianburrell&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianburrell&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
