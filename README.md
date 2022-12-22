@@ -10,8 +10,6 @@ I'm a neuroscience and psychology major at Virginia Tech interested in the compu
 
 #### Currently Coding:
 * 🗣️ NLP algorithim to detect social anxiety disorder (SAD) in speech
-* 🩺 Breast cancer dection using ML
-* 📰 Sentiment analysis for news sources
 
 
 #### Languages Known:
@@ -21,6 +19,8 @@ I'm a neuroscience and psychology major at Virginia Tech interested in the compu
 
 
 #### Previous Projects:
+* 🩺 Breast cancer dection using ML - `.py`
+* 📰 Sentiment analysis for news sources - `.py`
 * ☁️ Weather time series data using RNNs - `.py`
 * 👥 Statistical analysis on levels of trust for individuals with BPD undegoing TMS - `.matlab`
 <!--[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)
