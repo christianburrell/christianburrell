@@ -19,7 +19,7 @@ I'm a neuroscience and psychology major at Virginia Tech interested in the compu
 
 
 #### Previous Projects:
-* 🩺 Breast cancer dection using ML - `.py`
+* 🩺 Breast cancer detection using ML - `.py`
 * 📰 Sentiment analysis for news sources - `.py`
 * ☁️ Weather time series data using RNNs - `.py`
 * 👥 Statistical analysis on levels of trust for individuals with BPD undegoing TMS - `.matlab`
